@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Live - https://vinay-nextjs.vercel.app
+#### Live - https://vinaykumaryaddulakondu.vercel.app/
 
 #### Technologies used - NextJS, Tailwind CSS
 
